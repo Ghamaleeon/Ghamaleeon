@@ -1,6 +1,6 @@
-# Ghamaleeon 🍉
+<h1>Ghamaleeon 🍉</h1>
 
-**`Entusiasta em Tecnologia (Programador)`**
+<b><mark>Entusiasta em Tecnologia (Programador)</mark></b>
 
 Sou um desenvolvedor focado em back-end mas também capaz de full-stack, sendo direto e reto quando o assunto é fazer algo que funcione em código. Planejamento, organização e criatividade são minhas ferramentas principais no início e avanço de qualquer projeto, tendo como prioridade eficiência e futuras expansões independente do tempo que levar.
 
@@ -9,7 +9,7 @@ Sou um desenvolvedor focado em back-end mas também capaz de full-stack, sendo d
 </a>
 
 ---
-### Linguagens de programação
+<h3> Linguagens de programação </h3>
 
 <p>
   <img alt="Python" align="left" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -20,7 +20,7 @@ Sou um desenvolvedor focado em back-end mas também capaz de full-stack, sendo d
   <img alt="SQL" align="left" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img alt="HTML5" align="left" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </p>
-
+</br>
 #
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
