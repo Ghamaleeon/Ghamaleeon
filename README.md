@@ -4,10 +4,6 @@
 
 Sou um desenvolvedor focado em back-end mas também capaz de full-stack, sendo direto e reto quando o assunto é fazer algo que funcione em código. Planejamento, organização e criatividade são minhas ferramentas principais no início e avanço de qualquer projeto, tendo como prioridade eficiência e futuras expansões independente do tempo que levar.
 
-<a href="https://br.linkedin.com/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
-
 ---
 <h3> Linguagens de programação </h3>
 
