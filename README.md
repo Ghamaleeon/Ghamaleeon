@@ -1,4 +1,4 @@
-# Ghamaleeon 🍉
+# Guilherme Matheus 🍉
 
 **`Entusiasta em Tecnologia (Programador)`**
 
@@ -33,5 +33,5 @@ Sou um desenvolvedor focado em back-end também capaz de full-stack, sendo diret
 ## ReadMe Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Github ReadMe Stats" src="https://github-readme-stats.vercel.app/api?username=Ghamaleeon">
+  <img alt="Github ReadMe Stats" src="https://github-readme-stats.vercel.app/api?username=Guilhermatheus">
 </a>
