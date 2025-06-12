@@ -2,7 +2,7 @@
 
 **`Entusiasta em Tecnologia (Programador)`**
 
-Sou um desenvolvedor focado em back-end também capaz de full-stack, sendo direto e reto quando o assunto é fazer algo que funcione em código. Planejamento, organização e criatividade são minhas ferramentas principais no início e avanço de qualquer projeto, tendo como prioridade futuras expansões independente do tempo que levar. Sou capaz de aprender novas linguagens e ferramentas rapidamente, além de já ter me inserido em areas gráficas, audiovisuais e auditivas. 
+Sou um desenvolvedor focado em back-end também capaz de full-stack, sendo direto e reto quando o assunto é fazer algo que funcione em código. Planejamento, organização e criatividade são minhas ferramentas principais no início e avanço de qualquer projeto, tendo como prioridade futuras expansões independente do tempo que levar. Sou capaz de aprender novas linguagens e ferramentas rapidamente, além de já ter me inserido em areas gráficas e audiovisuais.
 
 ---
 ## Linguagens de programação
@@ -18,6 +18,7 @@ Sou um desenvolvedor focado em back-end também capaz de full-stack, sendo diret
   <img alt="Git" align="left" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img alt="Java" align="left" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img alt="HTML5" align="left" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="Bash" align="left" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
   <h3> Conhecimento Básico </h3>
 
   <img alt="C++" align="left" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
